@@ -108,7 +108,7 @@ client.on('message', async msg => {
         
         if (!permissions.has('CONNECT')) {
 
-			return msg.channel.send("I don't have enough permissions to join your voice channel!");
+			return msg.channel.send("Lord Fuch has restricted me to stay in this voice chat!");
         }
         
 		if (!permissions.has('SPEAK')) {
