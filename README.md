@@ -1,1 +1,1 @@
-# Rap-Battle-Bot
+# Midnight-Discord-Bot
